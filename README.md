@@ -8,7 +8,7 @@ Olá, eu me chamo Jean vitor! 😁<br>
 <br>
 <p>📘- Atualmente estudando Front-end</p>
 <p>🏡- Moro no Rio de Janeiro, RJ</p>
-<p>🧩- Meus hobbies são:⚽Jogar bola;🎮Video-game.</p>
+<p>🧩- Meus hobbies são: ⚽Jogar bola; 🎮Video-game.</p>
 
 <br>
 <br>
