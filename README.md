@@ -1,7 +1,7 @@
 <h1 align="center">Hello, World!</h1>
 
 
-Olá, eu me chamo Jean vitor! 😁<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=73bed9&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem-vindo!:%29;Oi,+Meu+Nome++jean+vitor.;Tenho+18+anos.;](https://git.io/typing-svg)
 
 <img src="http://pm1.narvii.com/7729/44444d7c197c8e28072201b10364c1f4f3d75e2dr1-1303-981v2_uhq.jpg" height="170px" align="right" alt=".">
 
