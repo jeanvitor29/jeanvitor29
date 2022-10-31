@@ -41,6 +41,6 @@
 
 ![Snake animation](https://github.com/jeanvitor29/jeanvitor29/blob/output/github-contribution-grid-snake.svg)
  
- 
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 </div>
  
