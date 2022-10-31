@@ -1,6 +1,6 @@
 <h1 align="center">Hello, World!</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=OLÁ+SEJA+BEM+VINDO!;MEU+NOME+É+JEAN+VITOR;TENHO+18+ANOS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=OLÁ+SEJA+BEM-VINDO!;MEU+NOME+É+JEAN+VITOR!;TENHO+18+ANOS!)](https://git.io/typing-svg)
 
 <img src="http://pm1.narvii.com/7729/44444d7c197c8e28072201b10364c1f4f3d75e2dr1-1303-981v2_uhq.jpg" height="170px" align="right" alt=".">
 
