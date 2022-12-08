@@ -5,7 +5,7 @@
 <img src="http://pm1.narvii.com/7729/44444d7c197c8e28072201b10364c1f4f3d75e2dr1-1303-981v2_uhq.jpg" height="170px" align="right" alt=".">
 
 <br>
-<p>📘- Atualmente estudando Front-end</p>
+<p>📘- Atualmente estudando React</p>
 <p>🏡- Moro no Rio de Janeiro, RJ</p>
 <p>🧩- Meus hobbies são: ⚽Jogar bola; 🎮Video-game.</p>
 
